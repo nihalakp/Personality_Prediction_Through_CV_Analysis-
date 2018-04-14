@@ -6,6 +6,7 @@ This repository consists of the personality prediction through CV analysis proje
 
 ### Prerequisites include:
 Latex
+
 pdfquery wrapper 
 
 ### References
